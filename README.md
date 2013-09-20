@@ -1,4 +1,4 @@
-yiiGrunt
+Gruntfile for Yii Framework
 ========
 
-Gruntfile for yii
+Automatic tasks for Yii Framework
